@@ -1,2 +1,8 @@
-# Mario
-Primer reporté de programación.
+#TM14
+##Perez Padilla Mario Roberto 
+###ESIT
+1TM14
+
+REPORTE DE PROGRAMACION
+
+GRFG4RFTYJKI8I5YUK
